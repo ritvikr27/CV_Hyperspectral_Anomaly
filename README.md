@@ -19,7 +19,9 @@ Generating hyperspectral images: these images are generated using specialized ca
 
 Why Hyperspectral imaging is necessary?
 For detecting and classifying materials based on their spectral signatures which is not possible with traditional imaging methods. This capability is vital for:
-1. Detailed Analysis and Detection: The detailed spectral information allows for the precise identification of materials and objects, even in complex scenes. 2. Non-Destructive Testing: It enables the analysis of subjects without altering or damaging them, crucial for historical document analysis, art restoration, and medical diagnostics. 3. Enhanced Decision Making: The rich information provided supports better decision-making in agriculture, environmental management, and other critical areas, contributing to more sustainable practices. 
+1. Detailed Analysis and Detection: The detailed spectral information allows for the precise identification of materials and objects, even in complex scenes.
+2. Non-Destructive Testing: It enables the analysis of subjects without altering or damaging them, crucial for historical document analysis, art restoration, and medical diagnostics.
+3. Enhanced Decision Making: The rich information provided supports better decision-making in agriculture, environmental management, and other critical areas, contributing to more sustainable practices. 
 In summary, hyperspectral imaging is a powerful tool that offers detailed insights into the material composition of objects and phenomena, significantly benefiting scientific research, industrial applications, anomaly detection, and environmental conservation.
 
 
