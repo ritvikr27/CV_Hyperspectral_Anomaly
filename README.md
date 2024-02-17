@@ -60,7 +60,9 @@ Mahalanobis Distance:
 The Mahalanobis distance is a measure of distance in multidimensional space that accounts for the variance in each dimension and the covariance between dimensions. 
 Unlike Euclidean distance, which measures the straight-line distance between two points, the Mahalanobis distance considers the correlations of the data set and is scale-invariant. This means it measures how many standard deviations a point is from the mean of a distribution, making it particularly useful for identifying outliers in data with multiple variables.
 
+
 ![image](https://github.com/ritvikr27/CV_Hyperspectral_Anomaly/assets/76433779/e790fe84-ab5f-476e-aeab-793b14cff8d2)
+
 
 Importance of Mahalanobis distance for the RX algorithm:
 1.	Sensitivity to Spectral Variability: By considering the variance and covariance of the background spectral data, the Mahalanobis distance can accurately measure how much an observation deviates from the norm. This is crucial in hyperspectral imagery, where each pixel contains a spectrum with information across many wavelengths. 
