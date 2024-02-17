@@ -63,6 +63,7 @@ Importance of Mahalanobis distance for the RX algorithm:
 Therefore, the Mahalanobis distance’s capability to account for the statistical properties of the data makes it crucial in the RX algorithm which enables robust and sensitive anomaly detection in complex hyperspectral datasets. This is essentially important in applications where the precise identification of anomalous features in a scene can help in making critical decisions in environmental monitoring, defense, and other domains.
 
 Link for the dataset: http://xudongkang.weebly.com/data-sets.html
+
 More information about this topic and other datasets: https://zephyrhours.github.io/sources.html
 
 
